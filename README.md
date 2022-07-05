@@ -2,7 +2,7 @@
 ## _A simple DogBook 4u <3_
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://main--lively-arithmetic-7e28d8.netlify.app/)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://main--golden-capybara-f0983d.netlify.app/)
 
 ## Tech
 - [ReactJS] - The Famous Library
